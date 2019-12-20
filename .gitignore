@@ -1,0 +1,22 @@
+# sbt specific
+.cache/
+.history/
+.lib/
+dist/
+target/
+lib_managed/
+project/boot/
+project/project/
+project/plugins/project/
+
+# metals
+.metals
+.bloop
+
+# sonar-scanner
+.scannerwork/
+
+# other
+*.log
+/bin/
+*.orig
